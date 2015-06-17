@@ -26,3 +26,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The changes from both branches are merged into one file. It is represented in the diagram that way because 
 both branches come together again.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that it saves time and effort, and if there's a conflict, it points it out. 
+The cons are that sometimes it can't do it because of conflicting changes in the same part of the code.
