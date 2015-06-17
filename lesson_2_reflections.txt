@@ -9,3 +9,7 @@ The staging area is different from the working directory in that it does not nec
 in the directory. It is just a temporary place that holds the file(s) that are being prepared to commit to the 
 repository. It allows you to make commits that only affect the files that logically should be included in the commit
 together.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the staging area to include only the files related to the logical change before making the commit.
