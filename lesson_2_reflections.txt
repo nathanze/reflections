@@ -17,3 +17,7 @@ I can use the staging area to include only the files related to the logical chan
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It would be helpful when trying out a new feature (or several different new features) that I'm not sure I want to keep. It would also allow me to experiement while keeping a working copy.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps me to see how the different commits relate to each other.
