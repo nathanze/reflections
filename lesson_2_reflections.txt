@@ -21,3 +21,8 @@ It would be helpful when trying out a new feature (or several different new feat
 How do the diagrams help you visualize the branch structure?
 
 It helps me to see how the different commits relate to each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes from both branches are merged into one file. It is represented in the diagram that way because 
+both branches come together again.
