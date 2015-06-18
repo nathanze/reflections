@@ -15,3 +15,8 @@ to another. A branch allows you to keep a master copy while you experiment with 
 You use a fork to create a copy of someone's repository into your own account on Github. You clone that repository
 when you download it to your local repository. You create a branch when you wish to maintain a master copy while 
 trying something or making a change that you do not want to immediately appear on your master copy.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+That way my computer can tell if the remote was changed since my last push or pull request. This helps to determine 
+whether or not a fast-forward merge is possible.
