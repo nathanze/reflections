@@ -20,3 +20,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 That way my computer can tell if the remote was changed since my last push or pull request. This helps to determine 
 whether or not a fast-forward merge is possible.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would probably use Dropbox. It would be easier to not have to remember all of Git's commands, etc. However, 
+it would be harder to keep track of the changes that each person makes, and it would be harder to merge files.
